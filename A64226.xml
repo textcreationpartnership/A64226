@@ -1,0 +1,534 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief enquiry whether they who assert, and they who deny, the divinity of our Lord Jesus Christ, may have communion together at the Lords table By Joseph Taylor.</title>
+            <author>Taylor, Joseph, 17th/18th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64226</idno>
+            <idno type="STC">Wing T536</idno>
+            <idno type="STC">ESTC R220650</idno>
+            <idno type="EEBO-CITATION">99832046</idno>
+            <idno type="PROQUEST">99832046</idno>
+            <idno type="VID">36514</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36514)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2099:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief enquiry whether they who assert, and they who deny, the divinity of our Lord Jesus Christ, may have communion together at the Lords table By Joseph Taylor.</title>
+                  <author>Taylor, Joseph, 17th/18th cent.</author>
+               </titleStmt>
+               <extent>[8], 63, [1]p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. [1] reads in part: A brief enquiry into the nature   of that article of the Christian faith, ..</note>
+                  <note>Reproduction of the original in the Congregational Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Divinity --  Early works to 1800.</term>
+               <term>Communion table --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36514:1"/>
+            <pb facs="tcp:36514:1" rendition="simple:additions"/>
+            <p>A Brief Enquiry Whether they who ASSERT, And they who DENY, THE Divinity OF OUR LORD <hi>Ieſus Chriſt,</hi> May have Communion together at the Lords Table.</p>
+            <p>By <hi>JOSEPH TAYLOR.</hi>
+            </p>
+            <q>Therefore thus ſaith the Lord, if thou return, then will I bring thee again, and thou ſhalt ſtand before me: And if thou take forth the precious from the vile, thou ſhalt be as my Mouth: let them return unto thee, but re<g ref="char:EOLhyphen"/>turn not thou to them, <bibl>
+                  <hi>Jer. 15.19.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1698.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:36514:2"/>
+            <pb facs="tcp:36514:2"/>
+            <head>To the Churches of our Lord Jeſus Chriſt.</head>
+            <opener>
+               <salute>Beloved Brethren,</salute>
+            </opener>
+            <p>HOW diſpleaſing is it to him, who <hi>walk<g ref="char:EOLhyphen"/>eth in the midſt of the golden Can<g ref="char:EOLhyphen"/>dleſticks,</hi> Rev. <hi>2.1.</hi> to ſee his Churches, either corrupted, or divided, to find his Body ei<g ref="char:EOLhyphen"/>ther defiled, or torn. Chriſt is the Head, and we are the Members of his Body, and as the Purity of the Head, calls for the greateſt Purity in the Bo<g ref="char:EOLhyphen"/>dy, ſo the Oneneſs of the Body, requires the ſtrict<g ref="char:EOLhyphen"/>eſt <g ref="char:V">Ʋ</g>nion among the Members; <hi>1</hi> Cor. <hi>10.17. For we being many are one Bread, and one Body, for we are all Partakers of that one Bread.</hi> Such cannot be Members of the Body who do not hold the Head: <hi>Col. 2.19. From which all the Body by Joynts and Bands, having Nou<g ref="char:EOLhyphen"/>riſhment miniſtred and knit together increa<g ref="char:EOLhyphen"/>ſeth with the increaſe of God.</hi> And ſuch ceaſe to be Members who make a Schiſm in the Body, it behoveth the Churches of Chriſt, therefore to take great heed to avoid both theſe Evils.</p>
+            <pb facs="tcp:36514:3"/>
+            <p>The deſire of <g ref="char:V">Ʋ</g>nity with all that call upon the Name of the Lord in Truth, put me on the ſeri<g ref="char:EOLhyphen"/>ous Conſideration (among other Things) whether Perſons who believe, or disbelieve the Divinity of our Lord Jeſus Chriſt, ought to have Communion together as Members of the ſame Body, and here you have the reſult of my Thoughts, with the Rea<g ref="char:EOLhyphen"/>ſons, wherefore I believe they ought not.</p>
+            <p>I have no perſonal Prejudice againſt any, it is only the Glory of God, the Honour of Jeſus Chriſt, and the Purity of the Churches that hath engaged me in this Work, and I cannot conceive how any who believeth <hi>Jeſus Chriſt to be God of the ſame Eſ<g ref="char:EOLhyphen"/>ſence with his Father,</hi> can account the denial of his Deity a ſmall Thing: Is it a ſmall Thing to take Chriſt from his Throne, his Crown from his Head, and his Royal Sceptre out of his Hand? To deny him that <hi>Nature</hi> without which you be<g ref="char:EOLhyphen"/>lieve he could not be a Saviour; nor the Object of Faith and Truſt which gave all the value to his Sufferings, that made the Offering up of his Hu<g ref="char:EOLhyphen"/>mane Nature, <hi>Eph. 5.2. An Offering and a Sacrifice to God, of a ſweet ſmelling Savour:</hi> Whereby his Juſtice was ſatisfied, and his Law an<g ref="char:EOLhyphen"/>ſwered; if he thought it no robbery to be equal with God, what robbery will he account it in ſuch who make him no more than a Man. And is it a ſign of Love to Chriſt, to hold the moſt intimate Com<g ref="char:EOLhyphen"/>munion
+<pb facs="tcp:36514:3"/>with ſuch who having ſtript Him of His Royal Ornaments, put a Crown of Thorns on his Head, a gorgeous Robe on his Body, a Reed in his Hand, and then Salute him with <hi>Hail King of the Jews:</hi> For what is it leſs to give him all the Titles and Characters of God, and yet deny Him his Nature. It is no Argument to ſay they do it ignorantly, for ſo did the <hi>Jews</hi> when they crucified Chriſt, <hi>1 Cor. 2.8. For if they had known, they would not have Crucified the Lord of Glory.</hi> And therefore, though we are to Pity and Pray for them, yet we are not to embrance and re<g ref="char:EOLhyphen"/>ceive them into our Communion.</p>
+            <p>On the other Hand, there is nothing more de<g ref="char:EOLhyphen"/>ſirable in the Churches of Chriſt than Peace and <g ref="char:V">Ʋ</g>nity, it is a Bleſſing to be prayed for and labou<g ref="char:EOLhyphen"/>red after Night and Day, <hi>Pſalm 133.1. How good and how pleaſant, is it for Brethren to dwell together in Unity.</hi> For ſweetneſs, <hi>v. 2. It is like the precious Oyntment upon the Head, that ran down upon the Beard, even Aarons Beard, that went down to the Skirts of his Garments.</hi> For Profit, <hi>v 3. It is as the Dew of Hermon, and as the Dew that deſcen<g ref="char:EOLhyphen"/>ded on the Mountains of Zion;</hi> and there the Lord commands his Bleſſing, <hi>even Life for ever<g ref="char:EOLhyphen"/>more.</hi>
+            </p>
+            <p>There he will be graciouſly preſent, there he will
+<pb facs="tcp:36514:4"/>dwell, and there he will diſpenſe the choiſeſt of his Favours: But this <hi>Unity that</hi> is ſo good, and ſo pleaſant is among <hi>Brethren</hi> among ſuch who believe in, exalt, and glorifie, the ſame God the Father, the ſame Lord Jeſus Chriſt, and the ſame Holy Spirit.</p>
+            <p>Peace and Truth muſt be joyned together: For that is not the Peace of God, which is purchaſed with the loſs of Truth, we are obliged to take as much Care that we have <g ref="char:V">Ʋ</g>nion only with the faith<g ref="char:EOLhyphen"/>ful: As to preſerve among them <hi>the Unity of the Spirit in the bond of Peace,</hi> Eph. <hi>4.3.</hi> I hope I can truly ſay, I write only for Truth, and ſhall be ſo far from being diſpleaſed at the diſproof of my Ar<g ref="char:EOLhyphen"/>guments, as thankfully to acknowledge my miſtake, and be one of the firſt as ſhall give them, I now write againſt, the right Hand of Fellowſhip: But in the mean Time, for the Reaſons herein mention<g ref="char:EOLhyphen"/>ed, I muſt intreat they who believe their Saviour is God by Nature, to be concerned for his Glory, to be conſiſtent with their own Principles, and not have Communion with ſuch that profeſs the contrary, and uſe all due means to recover ſuch who are ſeduced, <hi>by the ſleight of Men, and cunning craftineſs whereby they lie in wait to deceive,</hi> Eph. <hi>4.4, 5, 6.</hi> Let the Exhortation of our Lord be diligent<g ref="char:EOLhyphen"/>ly hearkned to. <hi>Have Salt in your ſelves, and Peace one with another,</hi> Mark <hi>9.50.</hi> And of
+<pb facs="tcp:36514:4"/>the Apoſtle, <hi>Endeavouring to keep the Unity of the Spirit in the bond of Peace; for you are one Body, and have one Spirit, and are called in one Hope of your Calling; you have one Lord, one Faith, one Baptiſm, one God and Father of all, who is above all, and through all, and in you all,</hi> Eph. <hi>4.3, 4, 5, 6.</hi> The great deſign of Satan is to divide you, which he endeavours to ef<g ref="char:EOLhyphen"/>fect by ſowing Seeds of Diſcord about leſſer Mat<g ref="char:EOLhyphen"/>ters, and ſtirring up ſuch <hi>who cauſe Diviſions and Offences contrary to the Doctrine of Chriſt,</hi> Rom. <hi>16.17.</hi> who are to be <hi>mark't,</hi> there is no<g ref="char:EOLhyphen"/>thing can weaken our Hands more than Diſcord, nor ſtrengthen them more than <g ref="char:V">Ʋ</g>nity; hereby is the Fa<g ref="char:EOLhyphen"/>ther gloryfied, the Son honoured, the Goſpel ſpread, and the Churches Edified.</p>
+            <p>There are many Things about which the dear Children of God do differ in their Judgments, and will do whilſt they are on this ſide the Grave, <hi>for we know but in part,</hi> they have not the ſame degrees of Light; and therefore are not of the ſame mind in all Things; but their differences are only about ſuch Things which they may believe, or disbelieve and yet hold the Head, they agree in the great and neceſſa<g ref="char:EOLhyphen"/>ry Doctrines of Salvation, in the Foundation Prin<g ref="char:EOLhyphen"/>ciples of the Chriſtian Religion, and Things of leſ<g ref="char:EOLhyphen"/>ſer moment I humbly conceive ſhould make no dif<g ref="char:EOLhyphen"/>ference among the Churches of Chriſt, nor cauſe them
+<pb facs="tcp:36514:5"/>to withdraw their Affections, or Communion from each other; for ſaith the Apoſtle (reſpecting theſe things) <hi>Phil. 3.15, 16. If any be otherwiſe minded, God ſhall reveal even this unto you, nevertheleſs whereto we have already attained, let us walk by the ſame rule, let us mind the ſame Thing.</hi> The ſtrong muſt bear the Infirmities of the weak, the Conſciences of none are to be impoſed upon, either to Practice what they do not, or to omit what they do believe to be their Duty, and where their differences are about ſuch Things which are not eſſential, there ought to be Chriſtian Charity and tenderneſs towards one another, in Order to this <g ref="char:V">Ʋ</g>nity; therefore the A<g ref="char:EOLhyphen"/>poſtle exhorts to <hi>lowlineſs and meekneſs, with long-ſuffering, forbearing one another in Love,</hi> Eph. <hi>4.2.</hi> But this Chriſtian Charity muſt not be abuſed, and the Line ſtretched to reach thoſe who profeſs ſuch Principles, which root up the Foundati<g ref="char:EOLhyphen"/>ons thereof. But whilſt we are ſeparating from theſe let us unite together in intire Affection, and cloſe Communion among our ſelves not ſuffering the leſſer Points, about which we may have different Appre<g ref="char:EOLhyphen"/>henſions to break the bond of our <g ref="char:V">Ʋ</g>nion, that ſo we may as one Man ſet our Hearts, our Hands, and Shoulders, to the Work of God amongſt us, which is the earneſt Deſire and Prayer of</p>
+            <closer>
+               <signed>Yours in Chriſt Jeſus <hi>J. T.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:36514:5"/>
+            <head>A Brief Enquiry into the Nature of that Article of the Chriſtian Faith, <hi>Viz. That Jeſus Chriſt was Truly GOD from Eternity, and in Time Aſſumed Humane Nature, and ſo is both GOD and MAN in One Perſon.</hi>
+            </head>
+            <p>THe Enemies to this Truth are many and various, and their great Endea<g ref="char:EOLhyphen"/>vours are to Proſelyte; but when that cannot be done, they labour to keep the <hi>Orthodox</hi> in Church-Communion with themſelves, by repreſenting this Doctrine as a thing indifferent, That it is not a Principle of ſuch Conſequence, for
+<pb n="2" facs="tcp:36514:6"/>which to leave Communion; but what may be believ'd or disbeliev'd without danger: That it is a My<g ref="char:EOLhyphen"/>ſterious Point, and the knowledge of ſuch Myſteries can neither be neceſſary to Salvation or Church Communion.</p>
+            <p>The Deſign of this Diſcourſe therefore is to repreſent the Nature of this Principle, and put it in its true Light. Wherein I ſhall offer to ſhew that it is a Principle of ſuch a Nature, that they who aſſert, and they who deny, believe and diſ-be<g ref="char:EOLhyphen"/>lieve it, ought not to have Com<g ref="char:EOLhyphen"/>munion together, which evidently appears from the Reaſons following.</p>
+            <p n="1">1. It is a Principle of that Conſe<g ref="char:EOLhyphen"/>quence, <hi>That either they who believe it, or they that disbelieve it muſt be Idola<g ref="char:EOLhyphen"/>ters; and they muſt eſteem each other either guilty of Blaſphemy or Idolatry.</hi> We all know there is an infinite di<g ref="char:EOLhyphen"/>ſtance between Creator and Crea<g ref="char:EOLhyphen"/>ture; between God and the high<g ref="char:EOLhyphen"/>eſt Creature whatſoever. Idolatry is to give Divine Honour and Worſhip
+<pb n="3" facs="tcp:36514:6"/>to a Creature only; 'tis not Idolatry only to give Divine Adoration to a mean Creature, but any Creature: They who Adore the Stars, are not leſs Idolaters than they who Adore Wood and Stone; they who adore the Angles are not leſs Idolaters than they who adore the Stars: Becauſe that Idolatry conſiſts not in render<g ref="char:EOLhyphen"/>ing Divine Honour to a mean Crea<g ref="char:EOLhyphen"/>ture, but ſimply in rendring it to a Creature; for, <hi>Thou ſhalt worſhip the Lord thy God,
+<note place="margin">
+                     <hi>Matt.</hi> 4.10 <hi>Deut.</hi> 6.13</note> and him only ſhalt thou ſerve.</hi> Now if Chriſt be not God, ſuch as give him Divine Honour can be no leſs than Idolaters; becauſe they give Divine Honour to a Crea<g ref="char:EOLhyphen"/>ture only, and they who believe he is not God, and yet worſhip him, are guilty of Formal Idolatry, becauſe they give Divine Honour to one whom they believe to be a Crea<g ref="char:EOLhyphen"/>ture only.</p>
+            <p>And, as they who deny this Prin<g ref="char:EOLhyphen"/>ciple, cannot but eſteem ſuch Idola<g ref="char:EOLhyphen"/>ters that worſhip him, as the moſt high God that is not ſo: So they
+<pb n="4" facs="tcp:36514:7"/>who aſſert it, cannot but account it Blaſphemy in them, to make him that is God from Eternity no more then a Creature, to rob Chriſt of his Deity, and all that Worſhip that is due to him as God, they that love the Lord Jeſus cannot bear this, and how can the others if they have any Religion, bear to ſee the Glory due to God given to a Creature on<g ref="char:EOLhyphen"/>ly. It is a Principle therefore of great Importance. For Idolatry is a crime that violates the expreſs Law of God,
+<note place="margin">
+                  <hi>Matt.</hi> 4.10</note> and is Oppoſite to the two great ends of Religion. <hi>viz.</hi> The Glo<g ref="char:EOLhyphen"/>ry of God, and our own Salvation.</p>
+            <p n="1">1. The glory of God: Becauſe it is a taking away of his Glory and giving it to another, contrary to <hi>Iſa.</hi> 42.8.</p>
+            <p n="2">2. To the Salvation of Men: for the Spirit of God expreſly de<g ref="char:EOLhyphen"/>clares, That <hi>Idolaters ſhall not enter into the Kingdom of Heaven,</hi> 1 <hi>Cor.</hi> 6.9.</p>
+            <p>If Jeſus Chriſt be of the ſame Eſſence with his Father, then he ought to be adored in the ſame
+<pb n="5" facs="tcp:36514:7"/>manner with him, and they cannot without impiety refuſe to acknow<g ref="char:EOLhyphen"/>ledge him as ſuch. If he is not, we cannot without Idolatry confound him with the moſt High God. So that the actions are inevitably either Idolatry, or groſs Impiety. It being then ſuch a Principle that either we are Idolaters, or not Idolaters, and they Blaſphemers or not Blaſphe<g ref="char:EOLhyphen"/>mers, according to the Falſity or Truth of it. Perſons of both Opini<g ref="char:EOLhyphen"/>ons ought not to have Communion together.</p>
+            <p>
+               <hi>Secondly,</hi> It is a principle of that Conſequence as they who <hi>deny it, deny the Perſon of the Son of God,</hi> and thereupon <hi>deny the true Chriſt, and bring another in his ſtead:</hi> ſo that they believe in different Objects. This is evident, for if the Perſon of Chriſt conſiſts of the Divine and Humane Nature, and this is the whole of his Perſon, then they who deny both Natures in Chriſt: as is manifeſtly the Opinion of ſome, or thoſe that deny his God-head only,
+<pb n="6" facs="tcp:36514:8"/>as the <hi>Socinians,</hi> they neceſſarily de<g ref="char:EOLhyphen"/>ny the Perſon of Chriſt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Objection. </seg>
+               </label> It is objected, That the difference between us is not <hi>Who is the Perſon,</hi> for both believe in him, that was born of the Virgin <hi>Mary,</hi> that ſuf<g ref="char:EOLhyphen"/>fered under <hi>Pontius Pilate,</hi> was dead and buried, <hi>&amp;c. But what is the Per<g ref="char:EOLhyphen"/>ſon,</hi> and therefore it is alledged they do not deny the Perſon of Chriſt, and bring another in his Stead.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> I anſwer, If they may be truly ſaid to deny God, that deny what is Eſſential to the God-head, then they may be truly ſaid to deny Chriſt, that deny what is Eſſential to his Perſon, I think none will de<g ref="char:EOLhyphen"/>ny the former, and the latter will follow; For if a Perſon ſhould deny the Eſſential Perfections of the God<g ref="char:EOLhyphen"/>head, it may be ſaid with as much reaſon he don't deny God, for the difference is not <hi>Who he is,</hi> for he believes it is he that made Heaven and Earth, <hi>&amp;c.</hi> but <hi>what he is,</hi> but notwithſtanding, it is moſt evident, that he which denies thoſe Perfecti<g ref="char:EOLhyphen"/>ons
+<pb n="7" facs="tcp:36514:8"/>which are Eſſential to the God<g ref="char:EOLhyphen"/>head muſt deny God: as to inſtance, without holineſs he cannot be God, it is Eſſential to his Nature, there<g ref="char:EOLhyphen"/>fore he that denieth he is Holy, de<g ref="char:EOLhyphen"/>nieth he is God: in like manner we aſſert, The Divine Nature is Eſſen<g ref="char:EOLhyphen"/>tial to the Perſon of Chriſt, with<g ref="char:EOLhyphen"/>out that he cannot be the <hi>Immanuel,</hi> the Mediator between God and Man; he could not make Satisfaction to Divine Juſtice, nor anſwer the Demands of the Law, nor Work out Salvation for us: It is evident there<g ref="char:EOLhyphen"/>fore, that as he who denieth the Nature of God denieth God: So he that denieth the Natures of Chriſt denieth his Perſon, yea it is better, as the Reverend Mr.
+<note place="margin">
+                  <hi>Charnock on the At<g ref="char:EOLhyphen"/>tributes, page</hi> 496.</note> 
+               <hi>Charnock</hi> ſaith, to deny there is a God, than to deny his Perfections: as <hi>Plutarch</hi> had rather it ſhould be ſaid, <hi>there never was ſuch a Man as</hi> Plutarch, <hi>than it ſhould be ſaid he was a vile Man, or a baſe Fellow;</hi> So it is worſe to deny what is Eſſential to Chriſt, than to deny there ever was
+<pb n="8" facs="tcp:36514:9"/>ſuch an one; it it better to ſay there never was any Chriſt, any Meſſiah, than to deny he was God; for, as it will be ſeen in the ſequel, this is but to make him an Impoſtor and a Deceiver. The <hi>Socinians</hi> aſſert, <hi>That Chriſt was that Man whom God anointed;</hi> certainly therefore they would account ſuch who ſhould deny he was a Man anointed by God, to Deny Chriſt; and yet they might at the ſame time anſwer, We diſa<g ref="char:EOLhyphen"/>gree not about the Perſon of Chriſt; for we both believe its He that was born of the Virgin <hi>Mary, &amp;c.</hi> From whence it is plain, there is nothing in the Objection, but they who de<g ref="char:EOLhyphen"/>ny the Natures of Chriſt, deny his Perſon, and hereby the true Object of the Chriſtian Faith is removed, <hi>viz. Immanuel, or God-Man, in one Perſon.</hi> This Object we are to be<g ref="char:EOLhyphen"/>lieve in, for Eternal Life and Sal<g ref="char:EOLhyphen"/>vation; but he that denies He is God-Man removes that Object; and he which aſſerts He is of another Nature, brings in another Object
+<pb n="9" facs="tcp:36514:9" rendition="simple:additions"/>in his Room: For Faith depends not upon an empty Name, but hath reſpect to the Nature of the Perſon believed in.</p>
+            <p>There can be no Act without an Object, the Object of our Faith is not the bare Name, but the Nature of the Perſon believed in: No Man can be ſaid to believe in God, that knows nothing of his Nature,
+<note place="margin">
+                  <hi>Pſal.</hi> 9.10.</note> 
+               <hi>They that know thy Name will put their truſt in thee, viz.</hi> The Nature of God ſignified by his Name. In like manner, No Man can be ſaid to be<g ref="char:EOLhyphen"/>lieve in Chriſt that denies his Na<g ref="char:EOLhyphen"/>ture. From whence it is evident, That they who deny, and they who aſſert this Principle, do not believe in the ſame Perſon. The Chriſt of God is <hi>Immanuel,</hi> God-man. The <hi>Eutychians,</hi> the <hi>Arians,</hi> the <hi>Socini<g ref="char:EOLhyphen"/>ans,</hi> Chriſt is not God-Man. There<g ref="char:EOLhyphen"/>fore the Chriſt they worſhip is not the Chriſt of God. And can they walk together that diſagree about the Object of their Faith? Can any have Communion with them
+<pb n="10" facs="tcp:36514:10"/>who deny the true Chriſt, and bring another in his Room? Hereupon</p>
+            <p>
+               <hi>Thirdly,</hi> It is a Principle of that Importance, <hi>That a Man cannot be ſaid to be a true Believer in Jeſus Chriſt that denieth it;</hi> For if there can be no Act of Faith without the true Object of Faith, and this is Jeſus Chriſt the Son of God, or the <hi>Imma<g ref="char:EOLhyphen"/>nuel God with us,</hi> then they who believe the contrary, wanting the Object of Faith <hi>viz.</hi> The true Chriſt, they have no Faith in him, and ſo are yet Unbelievers, and therefore ſhould remember that Text, John 3.18. <hi>He that believeth on him, is not condemned: But he that believeth not, is condemned already, becauſe he hath not believed on the Name of the only begotten Son of God.</hi> By the Name of God in Scripture his eſſential Perfections are ſignified, <hi>Exod.</hi> 34.5, 6. and if we thus underſtand the Name of Chriſt in the Text, they are yet unbelievers, that believe not his Divine Nature, and the Per<g ref="char:EOLhyphen"/>fections thereof, or which is all one,
+<pb n="11" facs="tcp:36514:10"/>that Record which God hath given of him, which is,
+<note place="margin">1 <hi>John</hi> 5.10.</note> that as he hath giv<g ref="char:EOLhyphen"/>en Eternal Life ſo that Eternal life is in his Son; or as mentioned <hi>v.</hi> 20. <hi>That he is True God and Eternal Life.</hi> And a like Argument they have againſt us, and therefore it is very plain there can be no Communion together for we muſt not have Com<g ref="char:EOLhyphen"/>munion with Unbelievers, 2 <hi>Cor.</hi> 6.14.</p>
+            <p>
+               <hi>Fourthly,</hi> Hereupon likewiſe, it is a Principle of ſuch a Nature as they who deny it, deny <hi>the Lord that hought them,</hi> as the Falſe Teachers, 2 <hi>Pet.</hi> 2.1. By denying the Lord here, it cannot be ſuppoſed, the Apo<g ref="char:EOLhyphen"/>ſtle means a direct denying of Jeſus Chriſt to be the Meſſiah: Becauſe,</p>
+            <p>
+               <hi>Firſt,</hi> They ſhould be teachers <hi>a<g ref="char:EOLhyphen"/>mong them,</hi> which they could not be, if they openly denyed Chriſt.</p>
+            <p>
+               <hi>Secondly,</hi> They ſhould do it pri<g ref="char:EOLhyphen"/>vily, and this would be an open de<g ref="char:EOLhyphen"/>nyal.</p>
+            <p>
+               <hi>Thirdly,</hi> They did it by thoſe damnable Hereſies which they <hi>pri<g ref="char:EOLhyphen"/>vily
+<pb n="12" facs="tcp:36514:11"/>brought in;</hi> they ſhould bring in ſuch Hereſies that ſhould <hi>deny the Lord that bought them,</hi> and what He<g ref="char:EOLhyphen"/>reſie can there be that more plainly denieth the Lord, than that which denieth <hi>what he is:</hi> He that denieth I am of the nature of Man, certain<g ref="char:EOLhyphen"/>ly denieth me who am a Man; and ſo, he that denies Chriſt is of the Nature of God, certainly denieth that Lord who is God.</p>
+            <p>If the Perſon of Chriſt conſiſts of the Divine and Humane Nature then he which denieth the Natures denieth the Perſon; for if that Name belongs to a Perſon of ſuch Na<g ref="char:EOLhyphen"/>tures, then take away the Natures, and you leave only an empty Name, a Name of nothing, it is in vain therefore to ſay, that both own Je<g ref="char:EOLhyphen"/>ſus Chriſt. They who deny the Natures of Chriſt, deny his Perſon, and they who deny his Perſon <hi>deny the Lord that bought them,</hi> and there<g ref="char:EOLhyphen"/>fore are Incommunicable.</p>
+            <p>
+               <hi>Sixthly,</hi> This Principle <hi>is that Rock upon which Chriſt hath built his Church.
+<pb n="13" facs="tcp:36514:11"/>Peter</hi> makes his Confeſſion of Chriſt,
+<note place="margin">
+                  <hi>Matth.</hi> 16.15, 19, 17, 18.</note> 
+               <hi>Thou art Chriſt the Son of the living God;</hi> And our Lord ſaith, <hi>upon this Rock will I build my Church;</hi> Whoſo<g ref="char:EOLhyphen"/>ever therefore denieth this Princi<g ref="char:EOLhyphen"/>ple, cannot be founded on that Rock which the Church of Chriſt is built upon; and conſequently, can be no Member of it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Objection. </seg>
+               </label> It is objected, That both Parties believe that Propoſition, <hi>That Chriſt is the Son of the living God.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> I <hi>Anſwer,</hi> It is impoſſible: For if we don't underſtand the ſame thing by it, we have not the ſame Faith, whilſt one aſſerts by the Son of God, is meant his Divine Nature, and the other, that by it, is meant Humane Nature only: Both cannot believe the Truth contained in this Propoſition, and each Party muſt ſuppoſe the other to deny that Rock upon which Chriſt hath built his Church, and therefore cannot be Members thereof.</p>
+            <p>
+               <hi>Seventhly,</hi> It is a Principle of ſuch Conſequence <hi>that the Chriſtian
+<pb n="14" facs="tcp:36514:12"/>Religion ſtands or falls with it.</hi> As there is but one God, ſo there can be but one true Religion. Now There are three Religions in the World, each of which plead to be the true Religion, <hi>viz.</hi> The <hi>Ma<g ref="char:EOLhyphen"/>hometan,</hi> the <hi>Jewiſh,</hi> and the <hi>Chriſti<g ref="char:EOLhyphen"/>an.</hi> I ſhall therefore, following Monſieur <hi>Abbadie</hi> in his <hi>French</hi> Treatiſe of the Divinitie of our Lord Jeſus Chriſt ſhew,</p>
+            <p>
+               <hi>Firſt,</hi> That if Jeſus Chriſt is not true God, of the ſame Eſſence with his Father, That the <hi>Mahometan</hi> Religion is preferable to the Chri<g ref="char:EOLhyphen"/>ſtian, and <hi>Mahomet</hi> was a greater Prophet than Chriſt.</p>
+            <p>
+               <hi>Secondly,</hi> That if Jeſus Chriſt is not true God, of the ſame Eſſence with his Father, He was an Impoſtor and deceiver. The Jews did juſtly in ſentencing of him to Death for Blaſphemy; They do well in main<g ref="char:EOLhyphen"/>taining the ſentence of their <hi>Sanhe<g ref="char:EOLhyphen"/>drim,</hi> in rejecting of the Preaching of the Apoſtles and Miniſters of Chriſt. That Chriſtian Religion is
+<pb n="15" facs="tcp:36514:12"/>Idolatry and Superſtition; and the Meſſiah is not yet come.</p>
+            <p>
+               <hi>Firſt,</hi> If Jeſus Chriſt is not true God <hi>&amp;c. the Mahometan Religion is preferable to the Chriſtian, and</hi> Maho<g ref="char:EOLhyphen"/>met <hi>was a greater Prophet than Jeſus Chriſt</hi> And the Reaſon is this, be<g ref="char:EOLhyphen"/>cauſe the Chriſtian Religion brings in Idolatry, and the <hi>Mahometan</hi> aboliſhes it.</p>
+            <p>For if Jeſus Chriſt be a Creature only (as he muſt be if he be not of the Eſſence of God) then that Reli<g ref="char:EOLhyphen"/>gion that teacheth Divine Adora<g ref="char:EOLhyphen"/>tion ought to be given to him (as is plain this doth) brings in Idola<g ref="char:EOLhyphen"/>try, and they who deny his Deity cannot but believe we are Idolaters. Whereas the Mahometan Religion denies a Trinity, denies Chriſt to be God, teaches he ought not to be worſhipped; Now if theſe things are true, the <hi>Mahometan</hi> Religion is the beſt, for that Exalts God in the Throne, and puts Jeſus Chriſt in his due place <hi>viz.</hi> in the rank of Creatures only; whereas the Chri<g ref="char:EOLhyphen"/>ſtian
+<pb n="16" facs="tcp:36514:13"/>Religion doth the direct con<g ref="char:EOLhyphen"/>trary, as will be proved in the fol<g ref="char:EOLhyphen"/>lowing Diſcourſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Objection. </seg>
+               </label> It is objected, His Religion is full of Fictions, and Idle Fables.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> But we ask, Since they have made the Chriſtian Religion and his, of ſo near a-kin, how do they know which is the True from the Falſe?</p>
+            <p>If <hi>Mahomet</hi> hath rid the World of Chriſtian Idolatry (for ſo is the worſhip of Jeſus Chriſt if he is not God) we ask by what Spirit he did this great Work; by the Spirit of God, or by the Spirit of the devil? if it be by the Spirit of God then how is he an Impoſter? And how can it be ſuppoſed ſo great a thing ſhould be done by the Spirit of the Devil? It is a Rule Chriſt gives in his Goſpel to know Teachers by their Fruits,
+<note place="margin">
+                  <hi>Matt.</hi> 7.16</note> and if Chriſt be not God how can we then but have a great Opinion of <hi>Mahomet,</hi> and own him for a great Prophet of God? For he hath taught men not to confound the Sovereign Being
+<pb n="17" facs="tcp:36514:13"/>with a Creature, and hath delivered many Nations for many Ages from this Idolatry, and what is greater and more Holy than ſuch a Deſign? What can beſpeak a Man more in<g ref="char:EOLhyphen"/>ſpired of God, than to undertake and be ſo ſucceſsful in ſuch a Work; to diſperſe the darkneſs of this pro<g ref="char:EOLhyphen"/>found Superſtition from ſo great a part of the Univerſe. Surely (if this were true, as they muſt acknow<g ref="char:EOLhyphen"/>ledge) he was a very great Prophet and all that he taught ought to be owned as Divine. Yea, hence it will appear that he is a greater Prophet than all the Prophets under the Law; yea, that he is preferable to Jeſus Chriſt. The Prophets under the Law they ſpoke only to the Peo<g ref="char:EOLhyphen"/>ple of <hi>Iſrael;</hi> But <hi>Mahomet</hi> hath ſpoken to the moſt Conſiderable part of the Univerſe; they ſuc<g ref="char:EOLhyphen"/>ceeded one another becauſe they could not live long enough to in<g ref="char:EOLhyphen"/>ſtruct the People in different Ages; he needed no Companion, nor any Succeſſor to baniſh Idolatry; the
+<pb n="18" facs="tcp:36514:14"/>Antient Prophets work'd many Miracles to ruine Idolatry: But <hi>Ma<g ref="char:EOLhyphen"/>homet</hi> hath ruined it without a Mi<g ref="char:EOLhyphen"/>racle; yea if that Principle is true that Jeſus Chriſt was no more than a Man, <hi>Mahomet</hi> is preferable to Chriſt himſelf, which will appear if you conſider either his Doctrine or the Succeſs of his Miniſtry, If you conſider the latter, Jeſus Chriſt hath ſpread his Doctrine in the Univerſe, but it hath had no other effect than to pull down one piece of ſuperſti<g ref="char:EOLhyphen"/>tion and to ſet up another in its place; to pull down <hi>Pagan</hi> Idolatry, and to ſet up <hi>Chriſtian</hi> Idolatry: for the ſame Goſpel as forbade them to worſhip <hi>Pagan</hi> Idols, taught them to worſhip Jeſus Chriſt: But <hi>Maho<g ref="char:EOLhyphen"/>met</hi> hath eſtabliſhed his Religion up<g ref="char:EOLhyphen"/>on firm Foundations, and hath ta<g ref="char:EOLhyphen"/>ken far wiſer Methods, that Idola<g ref="char:EOLhyphen"/>try ſhould not return after it was once deſtroyed. And if we conſi<g ref="char:EOLhyphen"/>der his Doctrine (if Chriſt is not God) we ſhall find that Jeſus Chriſt hath a vaſt diſadvantage to <hi>Maho<g ref="char:EOLhyphen"/>met,</hi>
+               <pb n="19" facs="tcp:36514:14"/>the Doctrine of <hi>Mahomet</hi> hath a natural Character which is oppoſed to Idolatry, and it is not ſo of Jeſus Chriſt, if you conſider his Language ſpoken by himſelf or his Apoſtles. We ſhall compare the Language of Chriſt and of <hi>Mahomet</hi> together, and it will plainly appear (upon this Suppoſition) that <hi>Maho<g ref="char:EOLhyphen"/>met</hi> was much wiſer and better than Jeſus Chriſt. <hi>Chriſt</hi> tells us by himſelf and ſervants, <hi>That he was before John Baptiſt, that he was before Abraham, before the making of the World, that he is Alpha and Omega, the Beginning and the Ending, the Firſt and the Laſt: That he was in the beginning with God, that he was God in the beginning, That all things were made by him and with<g ref="char:EOLhyphen"/>out him nothing was made that was made; That he in the beginning laid the foundations of the Earth and the Heavens are the work of his Hands.</hi> And that none might doubt of the ſenſe in which theſe Expreſſions are uſed, he, and his Diſciples, which were inſpired by his Spirit, did ap<g ref="char:EOLhyphen"/>ply
+<pb n="20" facs="tcp:36514:15"/>to him ſuch Scriptures of the Prophets which are only applicable to the moſt High God.
+<note place="margin">1 <hi>Kings</hi> 8.39.</note> The Prophet ſaith, <hi>God only knows the hearts of the Sons of Men.</hi> Jeſus Chriſt attributes this glorious Title to himſelf, that he might beget to himſelf the Fear and Adoration of Men.
+<note place="margin">
+                  <hi>Rev.</hi> 2.23.</note> 
+               <hi>And all the Churches ſhall know that I am he which ſearches the reins and hearts, and I will give unto every one of you accor<g ref="char:EOLhyphen"/>ding to your works.</hi> It is ſaid in the Law,
+<note place="margin">
+                  <hi>Deut.</hi> 6.</note> According to the Expoſiti<g ref="char:EOLhyphen"/>on of Chriſt,
+<note place="margin">
+                  <hi>Mat.</hi> 4.10.</note> 
+               <hi>Thou ſhalt worſhip the Lord thy God and him only ſhalt thou ſerve.</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 1.6.</note> And the Author of the Epi<g ref="char:EOLhyphen"/>ſtle to the <hi>Hebrews</hi> tells us, <hi>That when God brought his Son into the World he ſaid, Let all the Angels of God worſhip him.</hi> &amp;c. Now compare the Language of <hi>Mahomet</hi> with this, and it will readily appear, if Chriſt is not God, <hi>Mahomet</hi> had greater Truth, Wiſdom, and Charity to the Souls of Men, and had greater Care of and Zeal for the Glory of God than Jeſus Chriſt, who when he
+<pb n="21" facs="tcp:36514:15"/>ſpeaks either by himſelf or his Diſ<g ref="char:EOLhyphen"/>ciples, makes himſelf One with the moſt High God, both ſpeaking of himſelf (as hath been inſtanced) ſuch things as can agree to none but the Supream Being, and applying ſuch Scriptures as can agree to none elſe. <hi>Mahomet</hi> doth not thus; he declares almoſt in every Page of his <hi>Alcoran,</hi> That there is no other but the Eternal Father, which is God; he ſaith of himſelf, he is a Pro<g ref="char:EOLhyphen"/>phet, a Man inſpired by God, but he would not paſs for God; he ac<g ref="char:EOLhyphen"/>knowledges Jeſus Chriſt was ſent from God: But he would not have him have the Name of God, nor of the Son of God; his Words are not ſo obſcure, nor equivocal. He ſaith plainly, That they are Unbelievers and Infidels who ſay that the Son of <hi>Mary</hi> is God; he ſaith the Chri<g ref="char:EOLhyphen"/>ſtians are Infidels, making Three Gods when there is but One, and he would that Men ſhould call upon the Creator of Heaven and Earth, which made the Light, and the
+<pb n="22" facs="tcp:36514:16"/>Darkneſs. Now I ſay, if Chriſt was not God, <hi>Mahomet</hi> ſpoke more truly and plainly than Chriſt. He had more Wiſdom, and took more Care, not to intangle the Souls of Men; he was more zealous of the Glory of God, and would not At<g ref="char:EOLhyphen"/>tribute to himſelf the Names and Nature of GOD as Chriſt did. Theſe are ſuch Conſequences as our hearts abhor, as full of Blaſphemy; but they are ſuch as we muſt be con<g ref="char:EOLhyphen"/>ſtrained to receive for Truth, if Jeſus Chriſt is not of the ſame Eſ<g ref="char:EOLhyphen"/>ſence with his Father.</p>
+            <p n="2">2. If Chriſt is not true God, of the ſame Eſſence with his Father, <hi>then he was an Impoſter, his Diſciples Deceivers, the Jewiſh Sanhedrim did juſtly in ſentencing him to Death for Blaſphemy, the Jews do well in main<g ref="char:EOLhyphen"/>taining that Sentence; in rejecting the Preaching of the Apoſtles and Miniſters of Chriſt. That Chriſtian Religion is a Cheat, it is Superſtition and Idolatry, and the Meſſiah is not yet come.</hi> And certainly if this be proved true, all
+<pb n="23" facs="tcp:36514:16"/>will allow with me, that this Prin<g ref="char:EOLhyphen"/>ciple is of ſuch a conſequence that they who aſſert, and they who deny it, ought not to have Communion together.</p>
+            <p>In order to the Proof of what is aſſerted, I take it for granted, That none will deny, the <hi>Jewiſh</hi> Sanhedrim (being a Council, of Gods own appointing, to judge in Capital Matters relating to their own Tranquility, either in Church or State, to the Preſervation of their Religion and Laws.) But that they had a right to judge, to condemn, and to put to Death for Blaſphe<g ref="char:EOLhyphen"/>my. The only thing therefore to prove is. That if Jeſus Chriſt was not God, then he was a Blaſphe<g ref="char:EOLhyphen"/>mer, and they had reaſon to con<g ref="char:EOLhyphen"/>demn him for Blaſphemy; which ap<g ref="char:EOLhyphen"/>pears in what followeth. It is Blaſ<g ref="char:EOLhyphen"/>phemy for a meer Creature to call himſelf by thoſe Names that are pro<g ref="char:EOLhyphen"/>per only to the Divine Being, with the Names, to aſcribe to himſelf the Nature of God. And thoſe Per<g ref="char:EOLhyphen"/>fections
+<pb n="24" facs="tcp:36514:17"/>which diſtinguiſh him from all Creatures, to aſſert that he is e<g ref="char:EOLhyphen"/>qual with God, that he ought to have Divine Homage and Adorati<g ref="char:EOLhyphen"/>on given him; And Laſtly to aſ<g ref="char:EOLhyphen"/>cribe thoſe Scriptures of the Old Teſtament to himſelf, which are ſpoken of none but the moſt High God. I think none will vindicate ſuch a Perſon from being a Blaſphe<g ref="char:EOLhyphen"/>mer, and his Diſciples, who attri<g ref="char:EOLhyphen"/>bute theſe things to him, to be Ido<g ref="char:EOLhyphen"/>laters. It remains then only to prove, That he did theſe things, which is evident from the Writ<g ref="char:EOLhyphen"/>ings of his Diſciples; before the proof of which I will only remark, that what his Diſciples aſſerted of him muſt be look't upon as aſſerted by himſelf, becauſe that they ſpoke as they were Inſpired by his Spirit; it was one and the ſame-Spirit that dwelt in both.</p>
+            <p>
+               <hi>Firſt, That the Name of God is gi<g ref="char:EOLhyphen"/>ven him, is beyond all Contradiction.</hi> John 20.28.</p>
+            <p>
+               <hi>The great God,</hi> Tit. 2.13. Where
+<pb n="25" facs="tcp:36514:17"/>the Learned note, that the <hi>Greek</hi> Ar<g ref="char:EOLhyphen"/>ticle put before the <hi>Great God,</hi> and which agrees to <hi>Saviour</hi> alſo, is in the original a certain Mark that theſe two Terms are underſtood of the ſame Perſon, and that it is <hi>Jeſus Chriſt</hi> who is called the Saviour and great God both together. The <hi>True God,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 9.5.</note> 1 John 5.20. Yea, <hi>God above all Bleſſed for ever.</hi> The <hi>Mighty, Moſt Mighty,</hi> Pſal. 45.3. Heb. 1.8. Yea <hi>Almighty</hi> is aſcribed to him, <hi>Rev.</hi> 1.8.</p>
+            <p>
+               <hi>Secondly, That the Incommunicable Names of God (viz. Such as can be<g ref="char:EOLhyphen"/>long to none but the Supream Being) are aſcribed to him is evident.</hi>
+            </p>
+            <p>
+               <hi>Jehovah</hi> is a Name only belonging to the moſt High God. <hi>Pſal.</hi> 83.18.
+<note place="margin">Pray read theſe Scrip<g ref="char:EOLhyphen"/>tures.</note> 
+               <hi>Thou whoſe name alone is Jehovah</hi> and this is attributed to Chriſt, if you compare <hi>Iſa.</hi> 6.1. with <hi>John</hi> 12.41, and <hi>Pſal.</hi> 102.25. with <hi>Heb.</hi> 1.10. Where note, that <hi>Lord</hi> in theſe Texts, is <hi>Jehovah</hi> in the Original.</p>
+            <p>
+               <hi>I am that I am,</hi> is an incommuni<g ref="char:EOLhyphen"/>cable Name of God,
+<note place="margin">
+                  <hi>Exod.</hi> 3.14.</note> this Jeſus Chriſt attributes to himſelf, <hi>John</hi> S. 58. He
+<pb n="26" facs="tcp:36514:18"/>ſaith not, before Abraham was, I was, but <hi>before Abraham was I am.</hi> Which would not be ſence if he did not ſignifie he was the <hi>[I am]</hi> before <hi>Abraham,</hi> and the ſignificancy of that Name, <hi>viz.</hi> Eternity and Im<g ref="char:EOLhyphen"/>mutability he claims to Himſelf, <hi>Rev.</hi> 1.8. From whence it is evi<g ref="char:EOLhyphen"/>dent he is of the ſame Eſſence, <hi>&amp;c.</hi> Or he was a Blaſphemer; becauſe no meer Creature can, without Blaſ<g ref="char:EOLhyphen"/>phemy, aſcribe theſe Names of the moſt High God to himſelf.</p>
+            <p n="2">2. <hi>With the Name, the Nature of God and the moſt diſtinguiſhing Cha<g ref="char:EOLhyphen"/>racters thereof, he claimes to himſelf.</hi>
+            </p>
+            <p>It is the higheſt Blaſphemy for a meer Creature to claim Eternity: For nothing can be Eternal but God. There can be but One Be<g ref="char:EOLhyphen"/>ing, that never was made: But Jeſus Chriſt claims this incommuni<g ref="char:EOLhyphen"/>cable Perfection of the God-head to himſelf, and that in ſuch Terms as the Father expreſſes his own Eter<g ref="char:EOLhyphen"/>nity.
+<note place="margin">
+                  <hi>Iſa.</hi> 43.6.</note> 
+               <hi>Thus ſaith the Lord the King of Iſrael, I am the firſt and the laſt,
+<pb n="27" facs="tcp:36514:18"/>and beſides me there is no God;</hi> and thus ſaith Jeſus Chriſt,
+<note place="margin">
+                  <hi>Rev.</hi> 1.8. <hi>Chap.</hi> 2.8. <hi>ver.</hi> 18.</note> 
+               <hi>I am the Alpha and Omega, the beginning and the ending, which is, and which was, and which is to come, the Almighty.</hi>
+            </p>
+            <p>
+               <hi>Omniſciency</hi> is an incommunicable Property of the Divine Being, 1 <hi>Kings</hi> 8.39. <hi>For thou, even thou, only knoweſt the Hearts of all the Chil<g ref="char:EOLhyphen"/>dren of Men:</hi> And the ſame Jeſus Chriſt ſaith of himſelf, <hi>I am he which ſearcheth the Reins and Hearts,</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 2.23. <hi>John</hi> 21.17.</note> And his Diſciples aſcribe this to him, <hi>Thou knoweſt all things;</hi> which muſt be Blaſphemy if he was not God.</p>
+            <p>
+               <hi>Omnipreſence</hi> belongs only to God, And yet this Chriſt claims to himſelf, <hi>Math</hi> 18.20. <hi>and Chap.</hi> 28.19. And aſſerts he was in Hea<g ref="char:EOLhyphen"/>ven, whilſt he was on Earth, <hi>John</hi> 3.13. which cannot be ſaid of any Creature without manifeſt Impiety.</p>
+            <p>
+               <hi>Omnipotency</hi> is an Attribute be<g ref="char:EOLhyphen"/>longing only to the Supream Being, and this is ſpoken of Chriſt, <hi>John</hi> 5.19, 21. <hi>Phil.</hi> 3.21.</p>
+            <p>
+               <hi>Immortality</hi> is ſo aſcribed to
+<pb n="28" facs="tcp:36514:19"/>Chriſt, as it is proper only to the Eternal God, 1 Tim. 6.16. <hi>who on<g ref="char:EOLhyphen"/>ly hath immortality dwelling in that light which no man can approach unto.</hi> This can be only ſaid of the Su<g ref="char:EOLhyphen"/>pream Being. Jeſus Chriſt is of the ſame Eſſence therefore, or He is a Blaſphemer: for it is He of whom this is ſpoken, as plainly appears by the preceding Verſe.</p>
+            <p>
+               <hi>Immutability</hi> is an Attribute be<g ref="char:EOLhyphen"/>longing only to God, it can only be ſaid of God,
+<note place="margin">
+                  <hi>Jam.</hi> 1.17</note> 
+               <hi>In him is no vari<g ref="char:EOLhyphen"/>ableneſs neither ſhadow of turning.</hi> And was he not God of the ſame eſſence with the Father, what Blaſphemy would it be to ſay,
+<note place="margin">
+                  <hi>Heb.</hi> 13.8 <hi>Chap.</hi> 1.10.11.12.</note> 
+               <hi>Jeſus Chriſt the ſame yeſterday, to day, and for ever.</hi> And <hi>Thou Lord, in the beginning, haſt laid the Foundations of the Earth, and the Heavens are the Work of thy Hands; they ſhall periſh, but thou re<g ref="char:EOLhyphen"/>maineſt, and they ſhall wax old as doth a Garment, and as a Veſture ſhalt thou fold them together but thou art the ſame and thy Years ſhall not fail</hi>
+            </p>
+            <p>Of what meer Creature can it be
+<pb n="29" facs="tcp:36514:19"/>ſaid, He is Eternal Life, without Blaſphemy yet of Jeſus Chriſt is it ſaid, <hi>This is the True God,
+<note place="margin">1 <hi>John</hi> 5.20.</note> and Eternal Life.</hi>
+            </p>
+            <p>From all which nothing is more evident, that he is either True God, of the ſame Eſſence with his Father, or he was a Blaſphemer, and his Diſciples Idolaters: For either a meer Creature may aſſume all this without Blaſphemy, or elſe theſe things are not ſo; and certainly, we may as well deny the Light at Noon-Day, as the clearneſs of this Evidence.</p>
+            <p n="2">2. To ſtrengthen this, <hi>Thoſe works which are peculiar to the Deity, that none did, or could do, but the Moſt High God, his Diſciples aſcribe to him and poſitively aſſert he did them;</hi> which cannot be without Blaſphe<g ref="char:EOLhyphen"/>my, if he did them not. It is God only Created the World; this was the diſtinguiſhing Character of God in the Old Teſtament, <hi>that He made Heaven and Earth,</hi> And this is be<g ref="char:EOLhyphen"/>yond all contradiction aſcribed to
+<pb n="30" facs="tcp:36514:20"/>Jeſus Chriſt,
+<note place="margin">
+                  <hi>John</hi> 1.1, 2, 3.14. <hi>Col.</hi> 1.16. <hi>Heb.</hi> 1 10.</note> 
+               <hi>That all things were made by him, and without him was not any thing made that was made. That in the beginning he laid the Foundati<g ref="char:EOLhyphen"/>ons of the Earth, and the Heavens are the works of his Hands.</hi>
+            </p>
+            <p>It is the Almighty God only that Suſtains this mighty Univerſe; all things are upheld in being by the Word of his Power, and yet of Je<g ref="char:EOLhyphen"/>ſus Chriſt theſe words are ſpoken <hi>
+                  <g ref="char:V">Ʋ</g>pholding all things by the word of his power:</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 1.3.</note> I ask what can be ſaid greater of God than this, and what can be greater Blaſphemy, if he was a Creature only?</p>
+            <p>Yea, he aſſumes to himſelf the power <hi>of forgiving ſins;</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 9.6.</note> of <hi>Quicken<g ref="char:EOLhyphen"/>ing whom he will,</hi> of <hi>beſtowing eternal life.</hi>
+            </p>
+            <p>The Peculiar Character of <hi>SA<g ref="char:EOLhyphen"/>VIO<g ref="char:V">Ʋ</g>R,</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 43.11. <hi>Chap.</hi> 41.21.</note> whereby the God of <hi>Iſrael</hi> is diſtinguiſhed from all other Gods, he eminently claims, <hi>I am the Lord and beſides me there is no Saviour.</hi> This is ſpoken on purpoſe to beat men off from truſting in any other,
+<pb n="31" facs="tcp:36514:20"/>as a Saviour, but the God of Iſrael; and this is aſcribed to Chriſt in the moſt eminent manner. <hi>The ſavi<g ref="char:EOLhyphen"/>our of all men,
+<note place="margin">1 <hi>Tim.</hi> 4.10 <hi>John</hi> 4.42. <hi>Rom.</hi>
+                  </note> the Saviour of the World,</hi> who is to be believed in and truſted in as ſuch.</p>
+            <p>
+               <hi>Fourthly,</hi> That you may be aſſured all this was ſpoken properly of him, the Evangeliſts acquaint us he made himſelf equal with God, John 5.18. <hi>He ſaid alſo God was his Father, making himſelf equal with God.</hi> John 10.30. <hi>I and my Father are one,</hi> whereupon the Jews took up Stones to ſtone him for Blaphemy, <hi>becauſe he being a Man made himſelf God. ver.</hi> 33. And leaſt any ſhould think it was only the Jews miſtake, the Apoſtle <hi>Paul</hi> aſſures us, That Jeſus Chriſt thought <hi>it no robbery to be equal with him.</hi> For he ſaith without any manner of heſitation, <hi>Phil.</hi> 2.6. <hi>that he was in the form of God, and thought it no robbery to be equal with God.</hi>
+            </p>
+            <p>In <hi>Iſa.</hi> 40.25. the Lord makes a challenge, <hi>to whom then will you liken me or ſhall I be equal, ſaith the Holy one.</hi>
+               <pb n="32" facs="tcp:36514:21"/>Heaven and Earth and all the Crea<g ref="char:EOLhyphen"/>tures in it cannot be Compared with him,
+<note place="margin">
+                  <hi>v.</hi> 17.18.</note> they are <hi>nothing, leſs than nothing and Vanity,</hi> But the Apoſtle <hi>Paul</hi> likens, compares, and equals Jeſus Chriſt to him, and lets us know, Jeſus Chriſt himſelf thought it no Robery to be equal to the moſt High God; <hi>who being in the Form of God thought it no robery to be equal with God.</hi> It is the more to be remark't, becauſe it is the Apoſtle <hi>Paul</hi> that thus ſpeaks, who above all the Apoſtles exalts God, and debaſes the Creature.
+<note place="margin">2 <hi>Cor.</hi> 4.7.</note> 
+               <hi>We have this treaſure in earthen Veſſels, to the end that the excellency of the Power may be of God, and not of us.</hi> Who very well knew, that Jeſus Chriſt was accuſed, of Blaſphemy, and was Condemned, and Crucified for making himſelf equal with God. Who alſo knew the Prophet <hi>Iſaiah</hi> had aſſerted there was none to be likened or compared with Him, and yet with the greateſt aſſurance aſſerts, He was in the <hi>Form of God,</hi> and was equal to him.
+<pb n="33" facs="tcp:36514:21"/>Jeſus Chriſt therefore is of the ſame Eſſence with the Father, or he was the greateſt of Blaſphemers.</p>
+            <p n="5">5. To put the Matter out of doubt, that all this was ſpoken in a true and proper Senſe, <hi>he requires Di<g ref="char:EOLhyphen"/>vine Adoration, and his Diſciples aſſert, it is due to him,</hi> and Divine Adora<g ref="char:EOLhyphen"/>tion cannot be given to the high<g ref="char:EOLhyphen"/>eſt Creature without Idolatry; it is moſt certain they which adore God, adore none but under that Idea: But they gave Adoration to Jeſus Chriſt. The Evangeliſts tell us, That at his Birth he was adored; firſt by the Shepherds of <hi>Bethlehem,</hi> and then by the Wiſe Men; and the Au<g ref="char:EOLhyphen"/>thor to the <hi>Hebrews</hi> expreſly tells us,
+<note place="margin">
+                  <hi>Heb.</hi> 1.6.</note> 
+               <hi>That when he was brought into the World; God ſaid, let all the An<g ref="char:EOLhyphen"/>gels of God Worſhip him.</hi> He requi<g ref="char:EOLhyphen"/>red,
+<note place="margin">
+                  <hi>John</hi> 5.23.</note> that Men ſhould <hi>Honour the Son, as they honoured the Father.</hi> That as they <hi>believed in God,
+<note place="margin">
+                     <hi>Chap.</hi> 14.1.</note> they ſhould believe in him,</hi> and can there be Faith in Chriſt without Paying Divine Homage to him?
+<note place="margin">
+                  <hi>Rom.</hi> 15.2.</note> 
+               <hi>In him
+<pb n="34" facs="tcp:36514:22"/>ſhall the Gentiles truſt.</hi> And a Curſe is pronounced againſt truſting in a Creature.
+<note place="margin">
+                  <hi>Jer.</hi> 17.</note> Both outward and in<g ref="char:EOLhyphen"/>ward Worſhip is required to be given Him.</p>
+            <p n="1">1. He requires we ſhould Dedi<g ref="char:EOLhyphen"/>cate our ſelves to him, and there<g ref="char:EOLhyphen"/>fore muſt be Baptized in his Name;
+<note place="margin">
+                  <hi>Matth.</hi> 18.19.</note> whereby we are Devoted to Him.</p>
+            <p n="2">2. Divine Invocation is given to him by his Diſciples, <hi>Acts</hi> 7.59. 1 <hi>Cor.</hi> 1.2.</p>
+            <p n="2">2. Divine Praiſes are offered up to him, <hi>Rev.</hi> 5.9. <hi>Chap.</hi> 7.9, 10. <hi>Chap.</hi> 11.15, 17.</p>
+            <p n="4">4. He received Worſhip from the Leper, <hi>Mat.</hi> 6.2.</p>
+            <p>From his Diſciples, <hi>Mat.</hi> 28.17. <hi>When they ſaw him they Worſhipped him.</hi>
+            </p>
+            <p>From the Mariners, <hi>Matth.</hi> 14.33. This the Angel would not receive from <hi>John,</hi> becauſe he was a Creature only, but charges him to Worſhip God, <hi>Rev.</hi> 22.8, 9. From whence one of theſe Three Things will follow, that either</p>
+            <pb n="35" facs="tcp:36514:22"/>
+            <p n="1">1. The Angel was miſtaken, his Charge to <hi>John</hi> needleſs, and his Direction to Worſhip God Alone, in Vain. Or,</p>
+            <p n="2">2. That Jeſus Chriſt was God by Nature, and ſo Divine Worſhip belonged to him (which is certain<g ref="char:EOLhyphen"/>ly the Truth.) Or,</p>
+            <p n="2">2. He was an Impoſtor, and was guilty of Blaſphemy in receiving that Worſhip and Honour as be<g ref="char:EOLhyphen"/>longed to God only.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Objection. </seg>
+               </label> I know it is Objected, That the Honour required by Jeſus Chriſt was not the Honour due to God alone.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> I Anſwer, The contrary is eaſi<g ref="char:EOLhyphen"/>ly Evinced, That <hi>Jeſus Chriſt requi<g ref="char:EOLhyphen"/>red that Honour as is due to God a<g ref="char:EOLhyphen"/>lone:</hi> For He required Divine Ado<g ref="char:EOLhyphen"/>ration in Thought, in Word, and Deed.</p>
+            <p n="1">1. In Thought, He Attributes to himſelf the Names and Nature of God, his Eternity, Almighty Pow<g ref="char:EOLhyphen"/>er, Immutability, <hi>&amp;c.</hi> And for what End can this be, but that we
+<pb n="36" facs="tcp:36514:23"/>might think him to be the moſt High God.</p>
+            <p n="2">2. In Word, For to what end doth he take to himſelf the Names and Titles of the moſt High God, but that we might call him by thoſe Names, and ſpeak of him as he that made all Things, <hi>&amp;c.</hi>
+            </p>
+            <p n="2">2. In Deed: And this appears, becauſe he requires to be honou<g ref="char:EOLhyphen"/>red and loved above all, that we ſhould love him above all our Re<g ref="char:EOLhyphen"/>lations, Father, Mother, Wife, and Children, <hi>&amp;c.</hi> That we ſhould give him not the Sacrifice of Ox<g ref="char:EOLhyphen"/>en, of Calves of a Year Old, <hi>&amp;c.</hi> But of our Blood, he requires us to looſe our Lives for the Honour of his Name, to Sacrifice our ſelves, and all we have for his Sake; whoever doth this, muſt own him to be very God, becauſe theſe are Duties that are owing Only to the moſt High.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Objection. </seg>
+               </label> It is further <hi>Objected,</hi> That he did declare to the World, that the Father is greater than he, and
+<pb n="37" facs="tcp:36514:23"/>therefore what hath been ſaid, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s not to be underſtood in a proper and litteral Sence, but in a figura<g ref="char:EOLhyphen"/>tive only.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> I Anſwer, If he was not of the ſame Eſſence with his Father, this is ſo far from an excuſe, as it would increaſe his Guilt, that he ſhould notwithſtanding this acknowledge<g ref="char:EOLhyphen"/>ment, aſſume an equality with the moſt High God, in Names, Nature, Works, and Worſhip.</p>
+            <p>Should a Miniſter of State take to himſelf the peculiar Titles of the King, take the Name of Sovereign, ſtamp his Image on the Coin, aſ<g ref="char:EOLhyphen"/>cribe to himſelf the peculiar Glo<g ref="char:EOLhyphen"/>ries of the Prince, and receive Ho<g ref="char:EOLhyphen"/>mage, as ſuch, would it excuſe him to ſay he ſtill acknowledged the King to be greater than he.</p>
+            <p>Suppoſe <hi>Moſes,</hi> when he came down from the <hi>Mount,</hi> with the Glory on his Face, had called him<g ref="char:EOLhyphen"/>ſelf by the Names of God, Attri<g ref="char:EOLhyphen"/>buted to himſelf his Nature, and required the People to give him
+<pb n="38" facs="tcp:36514:24"/>Adoration. I ask, whether the People of <hi>Iſrael</hi> ought not to have accounted him a Seducer, and re<g ref="char:EOLhyphen"/>jected him as ſuch, in as much as he taught them it was a Law writ<g ref="char:EOLhyphen"/>ten with the Finger of God, <hi>Exod.</hi> 20. <hi>Thou ſhalt have no other Gods be<g ref="char:EOLhyphen"/>fore me.</hi> In like manner the <hi>Jews</hi> were obliged to reject Jeſus Chriſt (if he were not of the Eſſence of his Father) when he called himſelf by the Names of God, attributed to himſelf his Nature, and required the People to give him Adoration, in as much as he taught them, <hi>Matth.</hi> 4.10. <hi>Thou ſhalt Worſhip the Lord thy God, and him Only ſhalt thou ſerve.</hi> It is no excuſe, to ſay theſe Things are ſpoken Hyperbo<g ref="char:EOLhyphen"/>lically and Figuratively, for ſuch Hyperbolies, and ſuch Figures would be Impious and Wicked, and open a wide door for Blaſphe<g ref="char:EOLhyphen"/>my, for why might not <hi>Peter</hi> or <hi>Paul</hi> aſcribe theſe Things to them<g ref="char:EOLhyphen"/>ſelves, and what hinders any from attributing to themſelves the Names,
+<pb n="39" facs="tcp:36514:24"/>the Natures, the Offices, and Works of Jeſus Chriſt, if they may excuſe themſelves after this Man<g ref="char:EOLhyphen"/>ner.</p>
+            <p n="6">6. That theſe Things were ſpo<g ref="char:EOLhyphen"/>ken properly of Jeſus Chriſt is be<g ref="char:EOLhyphen"/>yond all ſcruple Confirmed, <hi>in that thoſe Scriptures of the Old Teſtament that are applicable to none but the moſt High God, are aſcribed to Him.</hi> Here I might give you a large Ca<g ref="char:EOLhyphen"/>talogue, but it ſhall ſuffice to give ſome Inſtances,</p>
+            <p>The firſt is, <hi>Iſa.</hi> 6.1, 2, 3, 4. <hi>In the Year that King <g ref="char:V">Ʋ</g>zziah died, I ſaw alſo Jehovah ſitting upon a Throne, high and lifted up, and his Train filled the Temple.</hi> Ver. 2. <hi>Above it ſtood the Seraphims,</hi> &amp;c. <hi>Ver.</hi> 3. <hi>And one cried unto another, and ſaid Holy, Holy, Holy, is the Lord of Hoſts, the whole Earth is full of his Glory. Jehovah,</hi> the King, the Lord of Hoſts, and Holy, Ho<g ref="char:EOLhyphen"/>ly, Holy, are peculiar Characters of the moſt High God, and none can without Blaſphemy, aſcribe
+<pb n="40" facs="tcp:36514:25"/>theſe to a meer Creature. But <hi>John</hi> the Evangeliſt applies theſe to Jeſus Chriſt, <hi>John</hi> 12.39, 40, 41. <hi>Theſe Things ſaid</hi> Iſaiah, <hi>when he ſaw his Glory and ſpake of him.</hi> And the Things that are here mention<g ref="char:EOLhyphen"/>ed, <hi>ver.</hi> 39, 40. <hi>Iſaiah</hi> ſaith, when he had that Viſion, <hi>ver.</hi> 9, 10.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtance. </seg>2</label> 
+               <hi>Pſalm</hi> 68.17, 18, 19. <hi>The Cha<g ref="char:EOLhyphen"/>riots of God are Twenty Thouſand, even Thouſands of Angels: The Lord is among them as in Sinai, in the Ho<g ref="char:EOLhyphen"/>ly Place,</hi> Ver. 18. <hi>Thou haſt aſcen<g ref="char:EOLhyphen"/>ded on high, thou haſt led Captivity Captive: Thou haſt received Gifts for Men; yea for the rebellious alſo, that the Lord God might dwell among them,</hi> Ver. 19. <hi>Bleſſed be the Lord, who daily loadeth us with his Benefits, even the God of our Salvation, Selah.</hi> Theſe are Characters belonging only to the moſt High God. But this Text is expreſly applied to Je<g ref="char:EOLhyphen"/>ſus Chriſt by the Apoſtle <hi>Paul,</hi> Eph. 4.6, 9. <hi>Wherefore He ſaith, when he aſcended up on high, he led Captivity Captive, and gave Gifts
+<pb n="41" facs="tcp:36514:25"/>to Men. Now He that aſcended was He that deſcended firſt into the lower Parts of the Earth,</hi> which was Jeſus Chriſt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtance. </seg>3</label> 
+               <hi>Iſa.</hi> 40. v. 3. <hi>The Voice of him that crieth in the Wilderneſs, prepare ye the way of the Lord, make ſtraight in the Deſert a high way for our God.</hi> Ver. 4. <hi>Every Valley ſhall be exalted, and every Mountain and Hill ſhall be made low; and the crooked ſhall be made ſtraight, and the rough places plain.</hi> Ver. 5. <hi>And the Glory of the Lord ſhall be revealed,</hi> &amp;c. Ver. 9. <hi>Say unto the Cities of Judah, behold your God.</hi> Ver. 10. <hi>Behold the Lord will come with ſtrong Hand, and his Arm ſhall rule for him; behold his Reward is with him, and his Work before him.</hi> Ver. 11. <hi>He ſhall feed his Flock like a Shepherd, he ſhall ga<g ref="char:EOLhyphen"/>ther the Lambs with his Arms, and carry them in his Boſom, and ſhall gently lead thoſe that are with Young.</hi> Ver. 12. <hi>Who hath meaſured the Wa<g ref="char:EOLhyphen"/>ters in the hollow of his Hand, and meeted out Heaven with a Span, and
+<pb n="42" facs="tcp:36514:26"/>comprehended the Duſt of the Earth in a meaſure, and weighed the Moun<g ref="char:EOLhyphen"/>tains in Scales, and the Hills in a Bal<g ref="char:EOLhyphen"/>lance,</hi> &amp;c. Theſe are without any difficulty the Characters of the moſt High God, and the Evangeliſt plain<g ref="char:EOLhyphen"/>ly applies theſe to Chriſt, in ma<g ref="char:EOLhyphen"/>king <hi>John Baptiſt</hi> to be this Voice,
+<note place="margin">
+                  <hi>John</hi> 1.23.</note> and Chriſt to be this Lord, of whom plainly all theſe are ſpoken, <hi>Luke</hi> 3.4, 5, 6. <hi>As it is written in the Book of the Words of</hi> Iſaias <hi>the Prophet ſaying, the Voice of one cry<g ref="char:EOLhyphen"/>ing in the Wilderneſs, prepare ye the way of the Lord, make his Paths ſtraight,</hi> &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtance. </seg>4</label> 
+               <hi>Iſa.</hi> 35.4, 5, 6. <hi>Say to them that are of a fearful Heart, be ſtrong, fear not, behold your God will come with Vengeance, even God with a re<g ref="char:EOLhyphen"/>compenſe, he will come and ſave you,</hi> Ver. 5. <hi>Then the Eyes of the Blind ſhall be opened, and the Ears of the Deaf ſhall be unſtopped.</hi> Ver. 6. <hi>Then ſhall the Lame Man leap as an Hart, and the Tongue of the Dumb ſing: For in the Wilderneſs ſhall Wa<g ref="char:EOLhyphen"/>ters
+<pb n="43" facs="tcp:36514:26"/>break out, and Streams in the Deſert.</hi> Read <hi>Matth.</hi> 15.4, 5. and you will ſee that Chriſt makes a viſible Application of this Scripture in the Anſwer, he gives to the Diſciples of <hi>John Baptiſt.</hi> Hereup<g ref="char:EOLhyphen"/>on he declares himſelf to be <hi>the God of</hi> Iſrael, <hi>the God of Vengeance, and Recompence,</hi> and <hi>the God of their Sal<g ref="char:EOLhyphen"/>vation.</hi> All which are Titles given by this Scripture to the moſt High.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtance. </seg>5</label> 
+               <hi>Iſa.</hi> 8.13, 14. <hi>Sanctifie the Lord of Hoſts himſelf, and let him be your fear, and let him be your dread.</hi> Ver. 14. <hi>And he ſhall be for a Sanctuary, but for a Stone of ſtumbling, and for a Rock of offence to hoth the Houſes of Iſrael, for a gin, and for a ſnare to the Inhabitants of Jeruſalem.</hi> This Scripture that is applicable to none but to the moſt High God, is ap<g ref="char:EOLhyphen"/>plied to Chriſt, <hi>Luke</hi> 2.34. <hi>Rom.</hi> 9.33. and 1 <hi>Pet.</hi> 2.8. Hereupon His Diſciples declares him to be <hi>the Lord of Hoſts himſelf,</hi> who is to be <hi>our fear and dread</hi> whom we are to <hi>ſanctifie, as ſuch, in our Hearts.</hi>
+            </p>
+            <pb n="44" facs="tcp:36514:27"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtance. </seg>6</label> Iſa. 45.21, 22, 23. <hi>Have not I the Lord, and there is no God elſe beſide me, a juſt God and a Saviour, there is none beſide me,</hi> Ver. 22. <hi>Look unto me, and be ye ſaved all the ends of the Earth, for I am God, and there is none elſe.</hi> Ver. 23. <hi>I have ſworn by my ſelf, the Word is gone out of my Mouth in Righteouſneſs, and ſhall not return, that unto me every Knee ſhall bow, every Tongue ſhall ſwear.</hi> This Scripture that contains ſo many diſtinguiſhing Characters of the moſt High God is applied to Chriſt, <hi>Rom.</hi> 14.9, 10, 11. <hi>For to this end Chriſt both died and roſe, and revi<g ref="char:EOLhyphen"/>ved, that he might be Lord both of the Dead, and of the Living.</hi> Ver. 10. — <hi>For we ſhall all ſtand be<g ref="char:EOLhyphen"/>fore the Judgment Seat of Chriſt.</hi> Ver. 11. <hi>For it is written, as I live, ſaith the Lord, every Knee ſhall bow to me, and every Tongue ſhall confeſs to God.</hi> It is likewiſe applied to him, <hi>Phil.</hi> 2.10, 11. From whence it is evident, Jeſus Chriſt <hi>is the Lord,</hi> and <hi>there is no God elſe beſide
+<pb n="45" facs="tcp:36514:27"/>him, a juſt God and Saviour, and none beſide him.</hi> That <hi>all the ends of the Earth are to look to him and be ſaved, for he is God and there is none elſe.</hi> That he is the Object of his own Oath, that <hi>He ſwears by him<g ref="char:EOLhyphen"/>ſelf, becauſe he cannot ſwear by a greater.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſtance. </seg>7</label> 
+               <hi>Pſalm</hi> 102.25. <hi>Of Old haſt thou laid the Foundation of the Earth: And the Heavens are the Work of thy Hands.</hi> Ver. 26. <hi>They ſhall periſh, but thou ſhalt endure, yea all of them ſhall wax old like a Garment, as a Veſture ſhalt thou change them, and they ſhall be changed,</hi> Ver. 27. <hi>But thou art the ſame, and thy Years ſhall have no end.</hi> Notwithſtanding this Text is ſo peculiar to the Supream Being, diſtinguiſhing him from all that is not God; the Author to the <hi>Hebrews,</hi> as hath been Inſtanced, expreſly aſcribes it to Chriſt, <hi>Heb.</hi> 1.10. <hi>And thou Lord in the begin<g ref="char:EOLhyphen"/>ning haſt laid the Foundations of the Earth,</hi> &amp;c. Now I ſay, it is very ſtrange and ſurprizing, that the
+<pb n="46" facs="tcp:36514:28"/>Diſciples of Chriſt (unleſs they were the worſt of Men) ſhould make ſuch Applications to Jeſus Chriſt, if he is not of the ſame Eſ<g ref="char:EOLhyphen"/>ſence with the Father. And fur<g ref="char:EOLhyphen"/>ther, we cannot imagine they would aſcribe the peculiar Glories of the Divine Nature to him, if we con<g ref="char:EOLhyphen"/>ſider,</p>
+            <p n="1">1. That the Light of Nature ſufficiently taught them, that they ought not to make Applications of thoſe Things to a Creature, which belongs to the Creator, excluſive of all Creatures.</p>
+            <p n="2">2. If you reſpect them as taught in the Schools of the Prophets, this cannot be imagined: Becauſe there is nothing can equal the Circumſpe<g ref="char:EOLhyphen"/>ction of the Prophets in this reſpect; it will neceſſarily follow therefore, if Jeſus Chriſt is not God of the ſame Eſſence with his Father, he was a Blaſphemer, and the <hi>Jewiſh Sanhedrim</hi> did very juſtly to Sen<g ref="char:EOLhyphen"/>tence him to Death for it. And to corroborate what hath been ſaid,
+<pb n="47" facs="tcp:36514:28"/>conſider if he was not God by Na<g ref="char:EOLhyphen"/>ture, what Reaſon the <hi>Jews</hi> had thus to proceed againſt him.</p>
+            <p n="1">1. The very firſt Precept in their Decalogue (which they had conti<g ref="char:EOLhyphen"/>nually before their Eyes) was, <hi>Thou ſhalt have no other Gods before me;</hi>
+               <note place="margin">
+                  <hi>Exod.</hi> 20.3</note> this they taught their Chil<g ref="char:EOLhyphen"/>dren, their Servants, and all under their Care.</p>
+            <p n="2">2. They well knew it was Ido<g ref="char:EOLhyphen"/>latry to give Divine Worſhip to a Creature only, and Blaſphemy for a meer Creature to take to himſelf the Glory due to God; their Pro<g ref="char:EOLhyphen"/>phets well inſtructed them in that Doctrine, that God would not give his Glory to another.</p>
+            <p n="2">2. They well knew, that the bleſ<g ref="char:EOLhyphen"/>ſed God had given himſelf Names on purpoſe to diſtinguiſh Him from all Creatures whatſoever, as <hi>Jeho<g ref="char:EOLhyphen"/>vah,</hi> &amp;c. The which Names they had in mighty Reverence.</p>
+            <p n="4">4. They knew that it was Blaſ<g ref="char:EOLhyphen"/>phemy for a meer Creature to aſ<g ref="char:EOLhyphen"/>ſume his Names, Nature, Works,
+<pb n="48" facs="tcp:36514:29"/>and Worſhip, and that it was Ido<g ref="char:EOLhyphen"/>latry to attribute theſe to ſuch an one.</p>
+            <p n="5">5. The Prophets were very di<g ref="char:EOLhyphen"/>ligent to prevent Idolatry, which was the Sin this People was exceed<g ref="char:EOLhyphen"/>ingly addicted to? and therefore warned them againſt the leaſt ap<g ref="char:EOLhyphen"/>pearance thereof, and this they did for the Glory of the God of <hi>Iſrael,</hi> that none might be acknowledged for the true God beſides; and for the Salvation of Men, becauſe Ido<g ref="char:EOLhyphen"/>laters were not to enter into the Kingdom of Heaven.</p>
+            <p n="6">6. Jeſus Chriſt did ſay, He and His Father were one, <hi>John</hi> 10.30. That therefore they who had ſeen him had ſeen the Father.
+<note place="margin">
+                  <hi>John</hi> 14.9.</note> 
+               <hi>That he was in the Father and the Father in him.</hi> Thereby he did make him<g ref="char:EOLhyphen"/>ſelf <hi>equal with God,</hi> John 5.18. which is plain, in that his Diſci<g ref="char:EOLhyphen"/>ples that were inſpired with his Spirit, aſſert the ſame Thing of him, as hath been evidenced; for this the <hi>Jews</hi> accuſed him;
+<pb n="49" facs="tcp:36514:29"/>him; for this they condemned him, and that with the greateſt Reaſon, if He where not true God of the ſame Eſſence with the Father, and ſo equal with him.</p>
+            <p>Theſe are the Things that the <hi>Jews</hi> alledge in their Defence, for crucify<g ref="char:EOLhyphen"/>ing of Jeſus Chriſt; and we demand how any Man, or any Company of Men whatſoever, that deny the Divinity of our Lord, can take off the force of them; it was according to their own Law which God had given them, and according to his own Expoſition of it, <hi>Thou ſhalt worſhip the Lord thy God, and him only ſhalt thou ſerve,</hi> Matth. 4.10. And it was for that which we muſt al<g ref="char:EOLhyphen"/>low Blaſphemy in another Caſe; for ſuppoſe any Perſon among the Chri<g ref="char:EOLhyphen"/>ſtians ſhould attribute to himſelf, the Names, and Natures, the Works, and Offices of Jeſus Chriſt, If he ſhould ſay <hi>he was the Lamb of God that takes a<g ref="char:EOLhyphen"/>way the Sins of the World, that he is the great Prophet and High-Prieſt of the New Teſtament, a Prieſt for ever after the Order of Melchizedeck, the wonderful
+<pb n="50" facs="tcp:36514:30"/>Counſellor, the mighty God, the Ever<g ref="char:EOLhyphen"/>laſting Father, the Prince of Peace, Im<g ref="char:EOLhyphen"/>manel, God with us, Jeſus a Saviour, Chriſt the Anointed, the Eternal Word, the Saviour of the World, the Alpha and Omega, the Beginning and the Ending,</hi> &amp;c. <hi>That he is the only begotten Son of God, that there is no other Name given under Heaven, whereby Men can be ſaved but his, that he is the Way, the Truth, and the Life, and no Man comes unto the Father but by him.</hi> Would not ſuch an one be juſtly eſteemed a<g ref="char:EOLhyphen"/>mong Chriſtians as an Impious and Blaſphemous Perſon. In like man<g ref="char:EOLhyphen"/>ner, for Jeſus Chriſt to attribute to Himſelf the Names, the Nature, the Works, and Worſhip of the moſt High God; and at the ſame time was not ſo, he could not be eſteemed a<g ref="char:EOLhyphen"/>mongſt the <hi>Jews</hi> then, nor can with any juſt Reaſon be eſteemed by any ſince, to be otherwiſe, than a noto<g ref="char:EOLhyphen"/>rious Blaſphemer, and from hence it would follow, his Diſciples were de<g ref="char:EOLhyphen"/>ceivers, that the <hi>Jewiſh Sanhedrim</hi> did well in ſentencing Chriſt to Death,
+<pb n="51" facs="tcp:36514:30"/>that the <hi>Jews</hi> do well in maintaining that Sentence, and in rejecting the Preaching of his Diſciples, that Chri<g ref="char:EOLhyphen"/>ſtian Religion is Superſtition and Ido<g ref="char:EOLhyphen"/>latry, and the <hi>Meſſiah</hi> is not yet come. For what is Idolatry, but to give the eſſential Glory of God to a Creature only; if <hi>Herod</hi> was guilty of Idolatry, for permitting the Peo<g ref="char:EOLhyphen"/>ple to ſay it is the Voice of God, and not of a Man, if though thoſe that of<g ref="char:EOLhyphen"/>fered one Grain of Incenſe to an Idol, were guilty of this Crime, and they who ſwore by the Head of the Empe<g ref="char:EOLhyphen"/>rour were not Innocent, though at the ſame Time they did not imagine the Emperour to be God, what a piece of Idolatry and Superſtition muſt that Syſteme be, that gives the incommunicable Glory of God to a Man only, and requires Divine Ado<g ref="char:EOLhyphen"/>ration to be rendered to him? yea, if Chriſt is not God of the ſame Eſ<g ref="char:EOLhyphen"/>ſence of his Father it repreſents him, as an Actour on a Stage, that takes the Name, the Apparel, and Acts the Part of a Prince, when at the ſame
+<pb n="52" facs="tcp:36514:31"/>time he is one of the meaneſt Subjects, for it repreſents Chriſt <hi>as God, God over all bleſſed for ever, the Almighty, All-ſeeing, Eternal, Immutable.</hi> The <hi>True God, and Eternal Life, as he that laid the Foundations of the Earth,</hi> &amp;c. When in Deed and in Truth he was but a meer Creature, and in reality had none of theſe Excellencies in him, there is a neceſſity therefore to give up the Truth of the Chriſtian Religion, and turn either <hi>Mahometans,</hi> or <hi>Jews</hi> if this Principle is not true, <hi>That Jeſus Chriſt is true God, of the ſame Eſſence with the Father.</hi> From whence it is evident, that this is a Principle of ſuch a Nature, that the Chriſtian Religion ſtands or falls with it, and therefore they who aſſert, and they who deny it cannot have Chriſtian Communion together.</p>
+            <p n="8">8. They which aſſert, and they which deny this Principle, ought not to have Communion together at the Lords Table, becauſe <hi>one or the other muſt be ignorant of what it repreſents, and ſignifies, they would have different Ideas
+<pb n="53" facs="tcp:36514:31"/>repreſented by the ſame Elements.</hi> To the one it would repreſent Jeſus Chriſt, giving himſelf for us an Offer<g ref="char:EOLhyphen"/>ing and a Sacrifice to God of a ſweet ſmelling Savour, the Humane Nature offered up, and by Reaſon of its Uni<g ref="char:EOLhyphen"/>on with the Divine making Satisfacti<g ref="char:EOLhyphen"/>on, to Divine Juſtice, anſwering the demands of the Law, and obtaining Salvation for us.</p>
+            <p>Whilſt it repreſents to the <hi>Secinians</hi> nothing elſe but a meer Man Suffering as an Example of Patience and Sub<g ref="char:EOLhyphen"/>miſſion to the Will of God. It ſets forth to the one the Infinite and ama<g ref="char:EOLhyphen"/>zing Love of God in giving his Son, his only begotten Son, that lay in his Boſom, and was his delight from E<g ref="char:EOLhyphen"/>ternity to become a Sacrifice for Sin<g ref="char:EOLhyphen"/>ners, <hi>to bear their Griefs,
+<note place="margin">
+                     <hi>Iſa.</hi> 53.4, 5.</note> and carry their Sorrows, to be wounded for their Tranſgreſſions, and bruiſed for their Ini<g ref="char:EOLhyphen"/>quities,</hi> to give him up to Death, even that ſhameful, painful, and accurſed Death of the Croſs. And it ſets forth the amazing Love of Jeſus Chriſt,
+<note place="margin">2 <hi>Cor.</hi> 8.9.</note> or as the Apoſtle ſpeaks <hi>the
+<pb n="54" facs="tcp:36514:32"/>Grace of our Lord Jeſus Chriſt, that though he was Rich, for their ſakes he became Poor, that through his Poverty they might be made Rich.</hi>
+               <note place="margin">
+                  <hi>Phil.</hi> 2.6.</note> That he <hi>that was in the form of God, and thought it no robbery to be equal with him made himſelf of no Reputation,</hi> &amp;c. But it repreſents no ſuch thing to the o<g ref="char:EOLhyphen"/>ther; no more Love, than to make a glorious Man, and ſet him to be an Example of Holineſs, Patience, and Humility both in his Life, and Death; and ought they to have Communion together at the Lords Table, that are not agreed what the Ordinance re<g ref="char:EOLhyphen"/>preſents and ſignifies? can they be ſaid to diſcern the Lords Body, that diſ<g ref="char:EOLhyphen"/>cern it not to be a Sacrifice offered up to God for our Sins?
+<note place="margin">
+                  <hi>Heb.</hi> 13.10</note> This is an Altar, of which they have no right to Eat.</p>
+            <p n="9">9. They ought not to have Com<g ref="char:EOLhyphen"/>munion together, becauſe <hi>they muſt eſteem each other, either <g ref="char:V">Ʋ</g>nbelievers or Hereticks,</hi> and neither are communi<g ref="char:EOLhyphen"/>cable, I have already ſhewn, that if Chriſt be God, <hi>&amp;c.</hi> then thoſe that
+<pb n="55" facs="tcp:36514:32"/>never believed it cannot be ſaid to be Believers in Chriſt, inaſmuch as they cannot be ſaid to Believe that Thing, who deny what is Eſſential to it, and they denying what is eſſential to the Perſon of Chriſt, cannot be ſaid to believe in that Perſon, and as for thoſe that have believed it, and de<g ref="char:EOLhyphen"/>parted from this Faith, they cannot but be looked upon to be Hereticks, for there is nothing Hereſie if this be not Hereſie, which Roots up the ve<g ref="char:EOLhyphen"/>ry Foundations, and denies the Lord that bought them, which overthrows the Chriſtian Faith, and turns it out of the World.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Objection. </seg>
+               </label> An Heretick is one that is condemn<g ref="char:EOLhyphen"/>ed of himſelf, and unleſs they are con<g ref="char:EOLhyphen"/>demned in their own Conſciences,
+<note place="margin">
+                  <hi>Tit.</hi> 2.10, 11.</note> that what they hold is Hereſie, they are not Hereticks.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer </seg>
+               </label> 1. Then it will follow, that it can never be known who is a Heretick in<g ref="char:EOLhyphen"/>aſmuch as we cannot know the Con<g ref="char:EOLhyphen"/>ſciences of Men, and then the Apoſtle might have kept that Rule to himſelf, <hi>Ver.</hi> 10. <hi>A Man that is an Heretick
+<pb n="56" facs="tcp:36514:33"/>after the firſt and ſecond Admonition re<g ref="char:EOLhyphen"/>ject,</hi> for it were abſurd for him to give an Injunction, as a Rule of Diſcipline in the Church that was impoſſible to followed.</p>
+            <p n="2">2. Therefore a Man is condemned of himſelf, that renounceth the great Truths he hath owned; he that once profeſſed Jeſus Chriſt to be the <hi>Meſſi<g ref="char:EOLhyphen"/>ah</hi> the Son, and ſent of God, was de<g ref="char:EOLhyphen"/>voted to him by Baptiſm, and ac<g ref="char:EOLhyphen"/>knowledged the Doctrines revealed by him, and ſince hath apoſtatized there-from is condemned of himſelf, his own Actions ſhew him to be ſelf-condemned, for there is no better rule than to judge of the Tree by its Fruit, and Actions ſpeak more than Words.</p>
+            <p>The Foundation Principles of Chri<g ref="char:EOLhyphen"/>ſtianity carry very great Evidence with them, they recommend them<g ref="char:EOLhyphen"/>ſelves to every Mans Conſcience in the ſight of God, we have the great<g ref="char:EOLhyphen"/>eſt Reaſon therefore to judge thoſe ſelf-condemned, condemned in their own Conſciences, who have departed from the Faith, <hi>Ver.</hi> 11. <hi>Knowing he
+<pb n="57" facs="tcp:36514:33"/>that is ſuch, is ſubverted, and ſinneth, being condemned of himſelf,</hi> it follows hence, they are not communicable, becauſe an Heretick after the firſt and ſecond Admonition reject.</p>
+            <p n="10">10. They who maintain a Separa<g ref="char:EOLhyphen"/>tion, becauſe of Principles of far leſſer Moment, muſt acknowledge that they who aſſert, and they who deny this, ought not to have Communion toge<g ref="char:EOLhyphen"/>ther; and if we look upon profeſſed Chriſtians of all Perſuaſions, we ſhall find they do ſo.</p>
+            <p>The Idolatry of the Church of <hi>Rome,</hi> for which the Proteſtants ſepa<g ref="char:EOLhyphen"/>rate from them, is not ſo groſs as this, for this is directly and formal<g ref="char:EOLhyphen"/>ly giving Divine Adoration to a Creature only, eſpecially in thoſe that deny his Deity, and yet give him Di<g ref="char:EOLhyphen"/>vine Worſhip.</p>
+            <p>The Reaſons for which the <hi>Presby<g ref="char:EOLhyphen"/>terians</hi> and <hi>Independants</hi> ſeparate from the Church of <hi>England</hi> are very Tri<g ref="char:EOLhyphen"/>fles in Compariſon of this.</p>
+            <p>Moſt baptized Churches maintain a Separation from thoſe that are unbap<g ref="char:EOLhyphen"/>tized,
+<pb n="58" facs="tcp:36514:34"/>and many will allow Commu<g ref="char:EOLhyphen"/>nion with none that are not in the Profeſſion and Practice of thoſe ſix Principles, <hi>Heb.</hi> 6.1, 2. But what is Baptiſm, or Laying on of Hands, to this Principle; can any urge that they are of that Conſequence, that they who aſſert, or they who deny them muſt be either Blaſphemers or Idola<g ref="char:EOLhyphen"/>ters? That <hi>they deny the true Chriſt,</hi> and <hi>bring in another in his ſtead,</hi> that <hi>they deny the Lord that bought them, that Chriſtianity it ſelf ſtands or falls with it.</hi> If then a Separation between the <hi>Baptiſts</hi> and <hi>Pedo-baptiſts</hi> is war<g ref="char:EOLhyphen"/>rantable, that they which are rightly Baptized, and thoſe which are not, ought not to have Communion toge<g ref="char:EOLhyphen"/>ther; much more ought not they, that aſſert and deny, that Believe and Disbelieve this great Princi<g ref="char:EOLhyphen"/>ple.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Objection. </seg>
+               </label> 
+               <hi>Obj.</hi> There are but few who are capable to underſtand this great My<g ref="char:EOLhyphen"/>ſtery, and therefore it cannot be a Principle of ſuch Conſequence.</p>
+            <pb n="59" facs="tcp:36514:34"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> The meaneſt Chriſtian is capable to believe what is required of them in this Caſe, the Holy Scriptures re<g ref="char:EOLhyphen"/>veal as we have ſhewn, that <hi>Jeſus Chriſt is God, Eternal, Almighty,</hi> &amp;c. <hi>That be is Man of the Seed of the Wo<g ref="char:EOLhyphen"/>man,</hi> of the Seed <hi>of</hi> David <hi>according to the Fleſh, and did partake of our Fleſh and Blood.</hi> So that he was both God and Man this is plain. But how theſe two Natures did unite, or after what manner this Union was made, as it is paſt our Capacity to reach it, ſo this is our Comfort, we are not obliged to underſtand it. True Faith believes the Thing, notwithſtanding Reaſon cannot Fathom the manner of them; and this Anſwers all the cla<g ref="char:EOLhyphen"/>mours made in this Caſe, for gene<g ref="char:EOLhyphen"/>rally thoſe Chriſtians that are not concerned in theſe Controverſies, be<g ref="char:EOLhyphen"/>lieve this Truth with the greateſt ſtedfaſtneſs; they read in Scripture, that Jeſus Chriſt <hi>is the true God and Eternal Life, that he is God over all Bleſſed for ever, that he made the World and all Things in it:</hi> And they read
+<pb n="60" facs="tcp:36514:35"/>
+               <hi>that he was Man like unto us in all Things, Sin only excepted,</hi> and they believe theſe Things firmly and true<g ref="char:EOLhyphen"/>ly, becauſe God hath ſaid them, and ask not with a carping mind how can theſe Things be, they adore it as a Myſtery, but humbly believe it as an undoubted Truth.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Objection. </seg>
+               </label> There are many whoſe Lives and Converſations (for many Years paſt) declare them to be good Chriſtians, that are Holy and Pious Men, Men of great Study, Labour, Sufferings, and Self-denial, that are deſirous to know what is the Mind and Will of God, and yet believe not this Prin<g ref="char:EOLhyphen"/>ciple, but the Contrary, ought we not therefore in Charity to eſteem them good Chriſtians, and have Com<g ref="char:EOLhyphen"/>munion with them notwithſtanding.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer. </seg>
+               </label> I Anſwer, 1. In the Words of the Apoſtle, <hi>Gal.</hi> 1.8, 9. <hi>Though we or an Angel from Heaven Preach any o<g ref="char:EOLhyphen"/>ther Goſpel unto you, then that which we have preached unto you, let him be ac<g ref="char:EOLhyphen"/>curſed.</hi>
+            </p>
+            <pb n="61" facs="tcp:36514:35"/>
+            <p n="2">2. We are to diſtinguiſh between the Seducers that cunningly lye in wait to deceive, and thoſe who thro' Ignorance, Simplicity, or flexible<g ref="char:EOLhyphen"/>neſs of Spirit are ſeduced by them, to the firſt we are <hi>not to give Place no not for an hour,
+<note place="margin">
+                     <hi>Gal.</hi> 2.5. <hi>Mat.</hi> 7.15.</note> beware of falſe Pro<g ref="char:EOLhyphen"/>phets,</hi> the Elders of Churches are pe<g ref="char:EOLhyphen"/>culiarly charged to keep theſe out of the Flock, <hi>Acts</hi> 20.28, 29, 30, 31. The Apoſtle Treats theſe with the greateſt Severity, <hi>Beware of Dogs, beware of evil workers, beware of the Conciſion,</hi> Phil. 3.2. <hi>Whoſe Mouths muſt be ſtopped,</hi> Tit. 1.11. <hi>Becauſe their Words will eat as doth a Canker,</hi> 2 Tim. 2.17.</p>
+            <p n="2">2. To thoſe that are ſeduced by them, we are to carry it with the greateſt Love and Tenderneſs in Or<g ref="char:EOLhyphen"/>der to regain them, ſo the Apoſtle Treats the ſeduced <hi>Galatians,
+<note place="margin">
+                     <hi>Gal.</hi> 4.19.</note> My lit<g ref="char:EOLhyphen"/>tle Children, of whom I Travel in Birth again:</hi> He mixeth Intreaties with his ſharp Rebukes.
+<note place="margin">2 <hi>Tim.</hi> 2.25, 26.</note> Thus we <hi>ſhould in meekneſs inſtruct thoſe that oppoſe them<g ref="char:EOLhyphen"/>ſelves, that they may be recovered out of the Snare of the Devil.</hi>
+            </p>
+            <pb n="62" facs="tcp:36514:36"/>
+            <p n="2">2. If after all means uſed, they per<g ref="char:EOLhyphen"/>ſiſt in their Hereſies they are to be rejected, for <hi>a little Leaven leaveneth the whole Lump,
+<note place="margin">
+                     <hi>Tit.</hi> 2.10, 11.</note> after the firſt and ſe<g ref="char:EOLhyphen"/>cond Admonition reject,</hi> and this fully anſwereth the Objection; for let their Lives and Converſations be never ſo exact, let them be Men of never ſo great Study, Labour, Sufferings and Self-denial, yet they are to be rejected by the Church; which ſhews, that not<g ref="char:EOLhyphen"/>withſtanding this, they are not good Chriſtians, and therefore their Piety but ſeeming and not real, becauſe good Chriſtians are not to be reje<g ref="char:EOLhyphen"/>cted from the Communion of the Church as Hereticks.</p>
+            <p>And as for their being willing to know the Truth, we find by Expe<g ref="char:EOLhyphen"/>rience, that after they have once eſpouſed and broached their Here<g ref="char:EOLhyphen"/>ſies, they ſet themſelves with all cun<g ref="char:EOLhyphen"/>ning ſubtlety and obſtinacy to op<g ref="char:EOLhyphen"/>poſe the Truth, and maintain their Errors; ſhutting their Eyes againſt all the Evidence that the Truth car<g ref="char:EOLhyphen"/>ries with it, and uſing all ways what<g ref="char:EOLhyphen"/>ſoever
+<pb n="63" facs="tcp:36514:36"/>to evade the force thereof, whereby whatſoever they may ſay, it is plain to every Obſerver; that they are not willing to know any Thing to be Truth, that is contrary to their profeſſed Principles; hence then it is ſo far from Chriſtian Chari<g ref="char:EOLhyphen"/>ty, that it is againſt the expreſs Rule and Law of Chriſt Jeſus, the Head and Lord of Chriſtians to have Commu<g ref="char:EOLhyphen"/>nion with them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
